@@ -1,0 +1,5 @@
+/build
+.settings
+/WebContent/WEB-INF/*.xml
+/WebContent/WEB-INF/lib
+/src/com/havancode/testdb
